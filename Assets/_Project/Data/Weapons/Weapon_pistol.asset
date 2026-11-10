@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c2903f2e981b4fd99011607a8eb9d26, type: 3}
+  m_Name: Weapon_pistol
+  m_EditorClassIdentifier: Project.Data::Project.Data.WeaponDefinition
+  <Id>k__BackingField: pistol
+  <DisplayName>k__BackingField: M9 Sidearm
+  <Damage>k__BackingField: 24
+  <FireRate>k__BackingField: 4
+  <MagazineSize>k__BackingField: 12
+  <ReloadTime>k__BackingField: 1.1
+  <Pellets>k__BackingField: 1
+  <SpreadDegrees>k__BackingField: 1.5
+  <ProjectileSpeed>k__BackingField: 42
+  <Range>k__BackingField: 30
+  <Pierce>k__BackingField: 0
+  <Knockback>k__BackingField: 3
+  <ProjectileScale>k__BackingField: 1
+  <Tint>k__BackingField: {r: 1, g: 0.85, b: 0.4, a: 1}
+  <Sfx>k__BackingField: 1
+  <ShakeStrength>k__BackingField: 0.05

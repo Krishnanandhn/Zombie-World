@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9605b38c81c46628a56669cfb2c1df, type: 3}
+  m_Name: Level_DeadYard
+  m_EditorClassIdentifier: Project.Data::Project.Data.LevelDefinition
+  <DisplayName>k__BackingField: Dead Yard
+  <ArenaHalfSize>k__BackingField: 30
+  <Waves>k__BackingField:
+  - <Title>k__BackingField: 
+    <IsBossWave>k__BackingField: 0
+    <Groups>k__BackingField:
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 8
+      <StartDelay>k__BackingField: 0
+      <Interval>k__BackingField: 0.9
+  - <Title>k__BackingField: 
+    <IsBossWave>k__BackingField: 0
+    <Groups>k__BackingField:
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 10
+      <StartDelay>k__BackingField: 0
+      <Interval>k__BackingField: 0.8
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 4
+      <StartDelay>k__BackingField: 4
+      <Interval>k__BackingField: 1
+  - <Title>k__BackingField: 
+    <IsBossWave>k__BackingField: 0
+    <Groups>k__BackingField:
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 10
+      <StartDelay>k__BackingField: 0
+      <Interval>k__BackingField: 0.7
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 8
+      <StartDelay>k__BackingField: 3
+      <Interval>k__BackingField: 0.8
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 2
+      <StartDelay>k__BackingField: 6
+      <Interval>k__BackingField: 3
+  - <Title>k__BackingField: 
+    <IsBossWave>k__BackingField: 0
+    <Groups>k__BackingField:
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 12
+      <StartDelay>k__BackingField: 0
+      <Interval>k__BackingField: 0.7
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 2
+      <StartDelay>k__BackingField: 5
+      <Interval>k__BackingField: 6
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 6
+      <StartDelay>k__BackingField: 8
+      <Interval>k__BackingField: 0.8
+  - <Title>k__BackingField: 
+    <IsBossWave>k__BackingField: 0
+    <Groups>k__BackingField:
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 14
+      <StartDelay>k__BackingField: 0
+      <Interval>k__BackingField: 0.6
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 5
+      <StartDelay>k__BackingField: 2
+      <Interval>k__BackingField: 2.2
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 2
+      <StartDelay>k__BackingField: 8
+      <Interval>k__BackingField: 5
+  - <Title>k__BackingField: 
+    <IsBossWave>k__BackingField: 0
+    <Groups>k__BackingField:
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 16
+      <StartDelay>k__BackingField: 0
+      <Interval>k__BackingField: 0.55
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 4
+      <StartDelay>k__BackingField: 4
+      <Interval>k__BackingField: 4
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 4
+      <StartDelay>k__BackingField: 6
+      <Interval>k__BackingField: 2.5
+  - <Title>k__BackingField: 
+    <IsBossWave>k__BackingField: 0
+    <Groups>k__BackingField:
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 14
+      <StartDelay>k__BackingField: 0
+      <Interval>k__BackingField: 0.5
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 12
+      <StartDelay>k__BackingField: 2
+      <Interval>k__BackingField: 0.6
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 5
+      <StartDelay>k__BackingField: 5
+      <Interval>k__BackingField: 3.5
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 6
+      <StartDelay>k__BackingField: 6
+      <Interval>k__BackingField: 2
+  - <Title>k__BackingField: THE ABOMINATION
+    <IsBossWave>k__BackingField: 1
+    <Groups>k__BackingField:
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 1
+      <StartDelay>k__BackingField: 1.5
+      <Interval>k__BackingField: 1
+    - <Enemy>k__BackingField: {fileID: 0}
+      <Count>k__BackingField: 10
+      <StartDelay>k__BackingField: 6
+      <Interval>k__BackingField: 1.4
+  <FirstWaveDelay>k__BackingField: 3
+  <WaveClearDelay>k__BackingField: 1.5
+  <MaxAlive>k__BackingField: 40
+  <MinSpawnDistance>k__BackingField: 16
+  <HealthScalingPerWave>k__BackingField: 0.1
+  <SpeedScalingPerWave>k__BackingField: 0.02
+  <ScorePerWaveCleared>k__BackingField: 100
+  <HealOnWaveClearFraction>k__BackingField: 0.25
+  <UpgradeChoices>k__BackingField: 3

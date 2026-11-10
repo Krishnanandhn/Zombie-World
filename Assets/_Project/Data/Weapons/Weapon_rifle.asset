@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c2903f2e981b4fd99011607a8eb9d26, type: 3}
+  m_Name: Weapon_rifle
+  m_EditorClassIdentifier: Project.Data::Project.Data.WeaponDefinition
+  <Id>k__BackingField: rifle
+  <DisplayName>k__BackingField: Marksman Rifle
+  <Damage>k__BackingField: 75
+  <FireRate>k__BackingField: 1.8
+  <MagazineSize>k__BackingField: 8
+  <ReloadTime>k__BackingField: 1.8
+  <Pellets>k__BackingField: 1
+  <SpreadDegrees>k__BackingField: 0.4
+  <ProjectileSpeed>k__BackingField: 75
+  <Range>k__BackingField: 50
+  <Pierce>k__BackingField: 2
+  <Knockback>k__BackingField: 8
+  <ProjectileScale>k__BackingField: 1.4
+  <Tint>k__BackingField: {r: 0.45, g: 0.9, b: 1, a: 1}
+  <Sfx>k__BackingField: 4
+  <ShakeStrength>k__BackingField: 0.14

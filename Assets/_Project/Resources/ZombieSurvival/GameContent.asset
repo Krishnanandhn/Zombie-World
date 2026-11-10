@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca6d8d346a9ba49928688e20df0738e9, type: 3}
+  m_Name: GameContent
+  m_EditorClassIdentifier: Project.Data::Project.Data.GameContent
+  <Player>k__BackingField: {fileID: 11400000, guid: ac8b9ed95584744f097924cc568d09d7, type: 2}
+  <Level>k__BackingField: {fileID: 11400000, guid: 66946c191fb38406fa104dd069328fab, type: 2}
+  <Weapons>k__BackingField:
+  - {fileID: 11400000, guid: c57dd6b0a813e4742b6553a4e8acb404, type: 2}
+  - {fileID: 11400000, guid: bedfb3c8f78494753aa7a9ca3a61b2ae, type: 2}
+  - {fileID: 11400000, guid: 07ce98f238c9b464b8869c8f280627a7, type: 2}
+  - {fileID: 11400000, guid: da9035c3c6e3048538acfac9290c1be7, type: 2}
+  <Enemies>k__BackingField:
+  - {fileID: 11400000, guid: 5825964eb632449e883f4d441e730e0b, type: 2}
+  - {fileID: 11400000, guid: 3382ff235aa9b46168f74115e6e5e564, type: 2}
+  - {fileID: 11400000, guid: 1e857539e46094b8e880181fc3028e62, type: 2}
+  - {fileID: 11400000, guid: 165617bf6605c4609acdbc5b6aa35395, type: 2}
+  - {fileID: 11400000, guid: 31c3de11d584a4269a89992c29f6e732, type: 2}
+  <Upgrades>k__BackingField:
+  - {fileID: 11400000, guid: f00623ddc4fcd4964aa7d5ee0cd2e179, type: 2}
+  - {fileID: 11400000, guid: 77b71faf333d9417a8cd8a883a923155, type: 2}
+  - {fileID: 11400000, guid: 7ae3055056aae455f81963e0952f2cc6, type: 2}
+  - {fileID: 11400000, guid: 0d87ced608b7f4f8688fc08737353660, type: 2}
+  - {fileID: 11400000, guid: c8831d8fa9ece4b66b6adcfdd73465df, type: 2}
+  - {fileID: 11400000, guid: 8435fbbd634e14c77a103d6a051e3c28, type: 2}
+  - {fileID: 11400000, guid: 910c50a6760604c60a3d051319020960, type: 2}
+  - {fileID: 11400000, guid: 68a5e0e7e22464ddbb55916ed3e3896a, type: 2}
+  - {fileID: 11400000, guid: e54f8d298deb24af2825d2d986aeb631, type: 2}
+  - {fileID: 11400000, guid: 4da56025ac25f482e9e7923e6e9d6a22, type: 2}
+  - {fileID: 11400000, guid: 3c81499e0003b43f8bb1fb5497aa3089, type: 2}
+  - {fileID: 11400000, guid: db0acde52eb864a529d35c4f524752e5, type: 2}
+  - {fileID: 11400000, guid: 8074c624e7d9149ed8b8e9d3a6aa141a, type: 2}
+  - {fileID: 11400000, guid: cc781c0b96cd24f85a0b72d10a040b9b, type: 2}
+  - {fileID: 11400000, guid: ad1fc366edd324605810c6f41b5f6b8c, type: 2}
+  - {fileID: 11400000, guid: 9e8082575208b4fbfaefb7e15088f782, type: 2}
+  - {fileID: 11400000, guid: 28756625ac146485aa5c8b9880783379, type: 2}
+  - {fileID: 11400000, guid: 62fbf2c846faf4431a47d4269332f82a, type: 2}
+  - {fileID: 11400000, guid: ee71559865634498cbafec8e9284e1f4, type: 2}
+  <KillHitStop>k__BackingField: 0.025
+  <BossKillHitStop>k__BackingField: 0.35
